@@ -7,17 +7,17 @@ Faciliter la gestion des livres, des emprunts et des retours pour les bibliothé
 
 ## 3. Fonctionnalités Principales
 Le système doit offrir les fonctionnalités suivantes :
-##    3.1 Gestion des Livres
-*         Ajouter, modifier et supprimer des livres de la collection.
-*         Rechercher et trouver des livres dans la bibliothèque par le nom du livre
-*         Suivre les informations sur le stock, y compris la disponibilité et la quantité.
+>> ## 3.1 Gestion des Livres
+> Ajouter, modifier et supprimer des livres de la collection.
+> Rechercher et trouver des livres dans la bibliothèque par le nom du livre
+> Suivre les informations sur le stock, y compris la disponibilité et la quantité.
 
-##    3.2 Gestion des Utilisateurs
-*         Inscrire de nouveaux utilisateurs et gérer leurs profils.
-*         Autoriser les utilisateurs à emprunter et à rendre des livres.
-*         Gérer les rôles et les autorisations des utilisateurs (administrateurs, bibliothécaires, utilisateurs réguliers).
+ >> ##    3.2 Gestion des Utilisateurs
+* Inscrire de nouveaux utilisateurs et gérer leurs profils.
+* Autoriser les utilisateurs à emprunter et à rendre des livres.
+* Gérer les rôles et les autorisations des utilisateurs (administrateurs, bibliothécaires, utilisateurs réguliers).
 
-##    3.3 Prêts de Livres
-*         Autoriser les utilisateurs à emprunter des livres pour une période définie.
+##  3.3 Prêts de Livres
+*   Autoriser les utilisateurs à emprunter des livres pour une période définie.
 *         Gérer les retours de livres et calculer les éventuelles amendes.
 
