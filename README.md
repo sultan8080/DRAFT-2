@@ -18,21 +18,21 @@ Le système doit offrir les fonctionnalités suivantes :
 > Gérer les rôles et les autorisations des utilisateurs (administrateurs, bibliothécaires, utilisateurs réguliers).
 
 >> ## 3.3 Prêts de Livres
-> Autoriser les utilisateurs à emprunter des livres pour une période définie.
-> Gérer les retours de livres 
-> calculer les éventuelles amendes (optionel).
+Autoriser les utilisateurs à emprunter des livres pour une période définie.
+  Gérer les retours de livres 
+  calculer les éventuelles amendes (optionel).
 
 >> ## 3.4 Gestion des Transactions :
-> Enregistrer les emprunts et les retours de livres.
-> Calculer les amendes pour les retards de retour (optionel).
->  Générer des reçus et des confirmations pour les transactions.
+   Enregistrer les emprunts et les retours de livres.
+   Calculer les amendes pour les retards de retour (optionel).
+   Générer des reçus et des confirmations pour les transactions.
 
 >> ## 3.5 Rapports
-> Générer des rapports sur les livres empruntés et les utilisateurs de la bibliothèque.
-> Calculer les amendes pour les retards de retour (optionel).
->  Générer des reçus et des confirmations pour les transactions.
+   Générer des rapports sur les livres empruntés et les utilisateurs de la bibliothèque.
+   Calculer les amendes pour les retards de retour (optionel).
+   Générer des reçus et des confirmations pour les transactions.
 
-## 3. Exigences Techniques
+## 4. Exigences Techniques
     Utilisation de Symfony (un framework PHP) pour le backend.
     Modélisation des cas d'utilisation, MCD et MLD avec draw.ie et mocodo.net.
     Stockage des données dans MySQL.
