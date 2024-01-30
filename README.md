@@ -6,7 +6,7 @@ Le système de gestion de bibliothèque vise à atteindre les objectifs suivants
 Faciliter la gestion des livres, des emprunts et des retours pour les bibliothécaires. Permettre aux utilisateurs d'effectuer des recherches de livres, de consulter leur profil et de gérer leurs emprunts. Fournir des fonctionnalités de reporting pour suivre les activités de la bibliothèque et analyser les tendances.
 
 ## 3. Fonctionnalités Principales
->> Le système doit offrir les fonctionnalités suivantes :
+Le système doit offrir les fonctionnalités suivantes :
 > ## 3.1 Gestion des Livres
 > Ajouter, modifier et supprimer des livres de la collection.
 > Rechercher et trouver des livres dans la bibliothèque par le nom du livre
@@ -33,8 +33,8 @@ Faciliter la gestion des livres, des emprunts et des retours pour les bibliothé
 > Générer des reçus et des confirmations pour les transactions.
 
 ## 4. Exigences Techniques
-    Utilisation de Symfony (un framework PHP) pour le backend.
-    Modélisation des cas d'utilisation, MCD et MLD avec draw.ie et mocodo.net.
-    Stockage des données dans MySQL.
-    Création de données de test avec Data Fixtures.
-    Interface utilisateur conviviale et réactive basée sur HTML, CSS, Framework Bootstrap/Tailwind, et JavaScript. Wireframes et prototypage avec Figma.
+Utilisation de Symfony (un framework PHP) pour le backend. 
+Modélisation des cas d'utilisation, MCD et MLD avec draw.ie et mocodo.net. 
+Stockage des données dans MySQL. 
+Création de données de test avec Data Fixtures. 
+Interface utilisateur conviviale et réactive basée sur HTML, CSS, Framework Bootstrap/Tailwind, et JavaScript. Wireframes et prototypage avec Figma.
